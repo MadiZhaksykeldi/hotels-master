@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort_distance"
+        android:title="@string/hotel_sort_distance" />
+    <item
+        android:id="@+id/sort_suites"
+        android:title="@string/hotel_sort_suites" />
+</menu>

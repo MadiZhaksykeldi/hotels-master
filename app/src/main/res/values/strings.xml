@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hotels</string>
+
+    <string name="hotel_distance">%1$d м от центра</string>
+    <string name="hotel_suites">номеров свободно: %1$d</string>
+
+    <string name="hotel_sort_distance">по расстоянию</string>
+    <string name="hotel_sort_suites">по номерам</string>
+
+    <string name="no_internet_message">Что-то пошло не так</string>
+    <string name="no_internet_reply_message">Обновить</string>
+</resources>
